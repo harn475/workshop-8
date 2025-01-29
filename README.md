@@ -40,9 +40,7 @@ The main challenge was ensuring the text wrapped correctly for the instructions.
 
 This project provided a good opportunity to practice working with external APIs and displaying dynamic content in p5.js. I particularly enjoyed implementing the text wrapping function, as it required me to think about how to handle text in a way that adapts to the size of the canvas. 
 
-Certainly! Here's a reference list along with a declaration of your help sources:
 
----
 
 **Reference List:**
 
@@ -50,7 +48,7 @@ Certainly! Here's a reference list along with a declaration of your help sources
    
 2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
    
-3. Reddit User. (2021, March 9). Is getting stuck in corners a known problem with? Reddit. Retrieved from [https://www.reddit.com/r/gamemaker/comments/mpgw2y/is_getting_stuck_in_corners_a_know_problem_with/](https://www.reddit.com/r/gamemaker/comments/mpgw2y/is_getting_stuck_in_corners_a_know_problem_with/)
+3. Reddit Users.
 
 ---
 

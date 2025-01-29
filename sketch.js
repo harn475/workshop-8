@@ -20,7 +20,7 @@ async function getDrink() {
 }
 
 function setup() {
-  createCanvas(windowWidth, 600);
+  createCanvas(600, 600);
   getDrink();
   bgColour = color(random(255), random(255), random(255));
 }
